@@ -25,8 +25,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "2f08bb0fcafefcc13f22e048a767c626
 "assets/NOTICES": "96193ea6f588934dd74b7233490b2b2b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d9a19dd2f89e3a99d387409ea025dbe7",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "7d6806e57c64247679ab31337d299858",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "58a14ee617d56eb5dd2f8f7d796587a4",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "19617abb7c76c930e1be4672e7164831",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
@@ -44,9 +44,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2f08bb0fcafefcc13f22e048a767c626
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d3ae42cea85f8a56f66c165cea78e3a5",
-"/": "d3ae42cea85f8a56f66c165cea78e3a5",
-"main.dart.js": "bcbb8b4dcf5b9ef4183113e34323869e",
+"index.html": "036dff004826be0fd2ff4fd9267c4d0c",
+"/": "036dff004826be0fd2ff4fd9267c4d0c",
+"main.dart.js": "4a373360d08ca3c493c31959abc110b6",
 "manifest.json": "b66fe41322709fceadaa85ee7b20f487",
 "version.json": "c77795558ac9d70b12da05587026febc"};
 // The application shell files that are downloaded before a service worker can
