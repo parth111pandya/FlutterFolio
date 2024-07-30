@@ -21213,7 +21213,6 @@ while(true)switch(s){case 0:if($.ap==null)A.aiQ()
 q=$.ap
 q.toString
 $.acm=q;++q.cx$
-A.aq6()
 A.axG()
 if($.ap==null)A.aiQ()
 q=$.ap
@@ -66780,7 +66779,8 @@ A.VQ.prototype={
 $2(a,b){return A.ai4(A.be(A.a([A.cj(A.fR(B.Aw,B.AB,B.AG))],t.p),B.j,B.o,B.f),B.rD,!1)},
 $S:107}
 A.DA.prototype={
-C(a){return A.ad2(null,new A.Xa())}}
+C(a){A.aq6()
+return A.ad2(null,new A.Xa())}}
 A.Xa.prototype={
 $2(a,b){return A.ai4(A.be(A.a([B.J7,A.cj(A.ahm(B.aL,"Home",$.bz().$1$0(t.F).a,B.mm,A.ala(),A.axE(),null,!1,null,B.T7))],t.p),B.j,B.o,B.f),B.rD,!1)},
 $S:107}
